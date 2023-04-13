@@ -1,0 +1,3 @@
+*.csv
+*.traineddata
+node_modules
